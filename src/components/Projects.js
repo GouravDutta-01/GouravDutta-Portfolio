@@ -32,7 +32,7 @@ const Projects = () => {
               <img src={project.image} alt={`Project ${index + 1}`} style={{ width: '100%', height: 250, objectFit: 'cover' }} />
               <CardContent>
                 <Typography variant="h6">{project.title}</Typography>
-                <Typography sx={{height: '150px'}}>{project.description}</Typography>
+                <Typography sx={{height: '180px'}}>{project.description}</Typography>
                 <IconButton color="success" href={project.githubLink} target="_blank">
                   <GitHubIcon sx={{ fontSize: '2rem' }}/>
                 </IconButton>
