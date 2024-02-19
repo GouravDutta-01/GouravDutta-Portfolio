@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/GouravDutta-Portfolio/static/js/main.e7e08161.js",
+    "static/media/the-blog-cafe.png": "/GouravDutta-Portfolio/static/media/the-blog-cafe.cba2095df3e221ce6bd4.png",
+    "static/media/saferoads.png": "/GouravDutta-Portfolio/static/media/saferoads.e245e0568b19aeec1d81.png",
+    "static/media/bg.jpg": "/GouravDutta-Portfolio/static/media/bg.b3b20e8037a53a36b458.jpg",
+    "static/media/dp.png": "/GouravDutta-Portfolio/static/media/dp.7ed7d864917161130566.png",
+    "static/media/text-ninja.png": "/GouravDutta-Portfolio/static/media/text-ninja.a31e7ea24eef41173380.png",
+    "static/media/edit-ninja.png": "/GouravDutta-Portfolio/static/media/edit-ninja.0543b2b8e320a9845733.png",
+    "static/media/opcode-converter.png": "/GouravDutta-Portfolio/static/media/opcode-converter.e9cb4fc34b644258729f.png",
+    "index.html": "/GouravDutta-Portfolio/index.html",
+    "main.e7e08161.js.map": "/GouravDutta-Portfolio/static/js/main.e7e08161.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e7e08161.js"
+  ]
+}
