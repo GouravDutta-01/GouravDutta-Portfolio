@@ -14,7 +14,7 @@ const Header = () => {
     'ML Enthusiast',
   ];
 
-  const isSmallScreen = useMediaQuery('(max-width:600px)');
+  const isSmallScreen = useMediaQuery('(max-width:780px)');
 
   return (
     <div

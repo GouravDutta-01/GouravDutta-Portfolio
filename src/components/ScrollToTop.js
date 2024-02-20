@@ -27,13 +27,13 @@ const ScrollToTop = () => {
 
   return (
     <Fab
-      color="primary"
+    color="primary"
       size="small"
       aria-label="scroll-to-top"
       onClick={scrollToTop}
       style={{
         position: "fixed",
-        bottom: "20px",
+        bottom: "30px",
         right: "20px",
         visibility: isVisible ? "visible" : "hidden",
       }}

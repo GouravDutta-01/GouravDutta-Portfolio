@@ -14,8 +14,8 @@ const ContactMe = () => {
   ];
 
   return (
-    <div id="contact-me" style={{ textAlign: 'center', backgroundColor: '#1f2e54', color: 'white', paddingTop: '20px', paddingBottom: '20px' }}>
-      <Paper elevation={0} style={{ padding: 20, backgroundColor: 'transparent', display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
+    <div id="contact-me" style={{ textAlign: 'center', backgroundColor: '#1f2e54', color: 'white', paddingTop: '20px' }}>
+      <Paper elevation={0} style={{ paddingTop: 20, paddingBottom: 10, backgroundColor: 'transparent', display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
         <Typography variant="body1" sx={{color: "white"}}>
           Feel free to connect with me
         </Typography>
