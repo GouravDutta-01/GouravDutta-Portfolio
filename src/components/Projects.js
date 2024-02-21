@@ -62,7 +62,7 @@ const Projects = () => {
     <div
       id="projects"
       style={{
-        padding: "25px",
+        padding: "20px",
         textAlign: "center",
         backgroundColor: "#0e3647",
         color: "white",
@@ -103,7 +103,7 @@ const Projects = () => {
                 >
                   {project.title}
                 </Typography>
-                <Typography sx={{ height: "180px" }}>
+                <Typography sx={{ height: "220px" }}>
                   {project.description}
                 </Typography>
                 {project.githubLink.length > 0 && (
@@ -111,7 +111,7 @@ const Projects = () => {
                     color="success"
                     href={project.githubLink}
                     target="_blank"
-                    style={{ margin: "0 20px" }}
+                    style={{ margin: "0 15px" }}
                   >
                     <GitHubIcon sx={{ fontSize: "2.5rem" }} />
                   </IconButton>
@@ -121,7 +121,7 @@ const Projects = () => {
                     color="error"
                     href={project.youtubeLink}
                     target="_blank"
-                    style={{ margin: "0 20px" }}
+                    style={{ margin: "0 15px" }}
                   >
                     <YouTubeIcon sx={{ fontSize: "2.5rem" }} />
                   </IconButton>
@@ -131,7 +131,7 @@ const Projects = () => {
                     color="primary"
                     href={project.deployedLink}
                     target="_blank"
-                    style={{ margin: "0 20px" }}
+                    style={{ margin: "0 15px" }}
                   >
                     <LinkIcon style={{ fontSize: "2.5rem" }} />
                   </IconButton>
