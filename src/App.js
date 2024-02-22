@@ -1,4 +1,5 @@
 import React from 'react';
+import './index.css';
 import { CssBaseline } from '@mui/material';
 import Navbar from './components/Navbar';
 import AboutMe from './components/AboutMe';
