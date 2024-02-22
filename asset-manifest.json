@@ -1,5 +1,6 @@
 {
   "files": {
+    "main.css": "/GouravDutta-Portfolio/static/css/main.1b6b4595.css",
     "main.js": "/GouravDutta-Portfolio/static/js/main.2095bb49.js",
     "static/media/the-blog-cafe.png": "/GouravDutta-Portfolio/static/media/the-blog-cafe.cba2095df3e221ce6bd4.png",
     "static/media/saferoads.png": "/GouravDutta-Portfolio/static/media/saferoads.e245e0568b19aeec1d81.png",
@@ -9,9 +10,11 @@
     "static/media/edit-ninja.png": "/GouravDutta-Portfolio/static/media/edit-ninja.0543b2b8e320a9845733.png",
     "static/media/opcode-converter.png": "/GouravDutta-Portfolio/static/media/opcode-converter.e9cb4fc34b644258729f.png",
     "index.html": "/GouravDutta-Portfolio/index.html",
+    "main.1b6b4595.css.map": "/GouravDutta-Portfolio/static/css/main.1b6b4595.css.map",
     "main.2095bb49.js.map": "/GouravDutta-Portfolio/static/js/main.2095bb49.js.map"
   },
   "entrypoints": [
+    "static/css/main.1b6b4595.css",
     "static/js/main.2095bb49.js"
   ]
 }
