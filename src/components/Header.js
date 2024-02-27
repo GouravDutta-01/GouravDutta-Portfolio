@@ -61,8 +61,8 @@ const Header = () => {
         </Typography>
         <ReactTyped
           strings={typedStrings}
-          typeSpeed={40}
-          backSpeed={50}
+          typeSpeed={50}
+          backSpeed={25}
           loop
           showCursor={false}
           style={{ fontSize: isSmallScreen ? '1.2em' : '2em', fontWeight: 'bold', display: 'inline-block', color: '#34bc50' }}
