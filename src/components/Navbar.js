@@ -100,70 +100,70 @@ function DrawerAppBar(props) {
           >
             <Typography variant="h6" sx={{ my: 5 }}></Typography>
             <List>
-              <ListItem disablePadding>
-                <ListItemButton sx={{ textAlign: "center" }}>
-                  <ListItemIcon>
-                    <HomeIcon sx={{ color: "white" }} />
-                  </ListItemIcon>
-                  <ScrollLink
-                    to="home"
-                    smooth={true}
-                    duration={500}
-                    offset={-50}
-                    onClick={handleDrawerToggle}
-                  >
+              <ScrollLink
+                to="home"
+                smooth={true}
+                duration={500}
+                offset={-50}
+                onClick={handleDrawerToggle}
+              >
+                <ListItem disablePadding>
+                  <ListItemButton>
+                    <ListItemIcon>
+                      <HomeIcon sx={{ color: "white" }} />
+                    </ListItemIcon>
                     <ListItemText primary="Home" />
-                  </ScrollLink>
-                </ListItemButton>
-              </ListItem>
-              <ListItem disablePadding>
-                <ListItemButton sx={{ textAlign: "center" }}>
-                  <ListItemIcon>
-                    <PersonIcon sx={{ color: "white" }} />
-                  </ListItemIcon>
-                  <ScrollLink
-                    to="about-me"
-                    smooth={true}
-                    duration={500}
-                    offset={-50}
-                    onClick={handleDrawerToggle}
-                  >
+                  </ListItemButton>
+                </ListItem>
+              </ScrollLink>
+              <ScrollLink
+                to="about-me"
+                smooth={true}
+                duration={500}
+                offset={-50}
+                onClick={handleDrawerToggle}
+              >
+                <ListItem disablePadding>
+                  <ListItemButton>
+                    <ListItemIcon>
+                      <PersonIcon sx={{ color: "white" }} />
+                    </ListItemIcon>
                     <ListItemText primary="About Me" />
-                  </ScrollLink>
-                </ListItemButton>
-              </ListItem>
-              <ListItem disablePadding>
-                <ListItemButton sx={{ textAlign: "center" }}>
-                  <ListItemIcon>
-                    <WorkIcon sx={{ color: "white" }} />
-                  </ListItemIcon>
-                  <ScrollLink
-                    to="projects"
-                    smooth={true}
-                    duration={500}
-                    offset={-50}
-                    onClick={handleDrawerToggle}
-                  >
+                  </ListItemButton>
+                </ListItem>
+              </ScrollLink>
+              <ScrollLink
+                to="projects"
+                smooth={true}
+                duration={500}
+                offset={-50}
+                onClick={handleDrawerToggle}
+              >
+                <ListItem disablePadding>
+                  <ListItemButton>
+                    <ListItemIcon>
+                      <WorkIcon sx={{ color: "white" }} />
+                    </ListItemIcon>
                     <ListItemText primary="Projects" />
-                  </ScrollLink>
-                </ListItemButton>
-              </ListItem>
-              <ListItem disablePadding>
-                <ListItemButton sx={{ textAlign: "center" }}>
-                  <ListItemIcon>
-                    <MailIcon sx={{ color: "white" }} />
-                  </ListItemIcon>
-                  <ScrollLink
-                    to="contact-me"
-                    smooth={true}
-                    duration={500}
-                    offset={-50}
-                    onClick={handleDrawerToggle}
-                  >
+                  </ListItemButton>
+                </ListItem>
+              </ScrollLink>
+              <ScrollLink
+                to="contact-me"
+                smooth={true}
+                duration={500}
+                offset={-50}
+                onClick={handleDrawerToggle}
+              >
+                <ListItem disablePadding>
+                  <ListItemButton>
+                    <ListItemIcon>
+                      <MailIcon sx={{ color: "white" }} />
+                    </ListItemIcon>
                     <ListItemText primary="Contact Me" />
-                  </ScrollLink>
-                </ListItemButton>
-              </ListItem>
+                  </ListItemButton>
+                </ListItem>
+              </ScrollLink>
             </List>
           </Box>
         </Drawer>
