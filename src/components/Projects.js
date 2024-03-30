@@ -8,13 +8,15 @@ import project2Image from "../assets/saferoads.png";
 import project3Image from "../assets/text-ninja.png";
 import project4Image from "../assets/opcode-converter.png";
 import project5Image from "../assets/edit-ninja.png";
+import project6Image from "../assets/daily-task-tracker.png";
+import project7Image from "../assets/laptop-price-predictor.png";
 
 const Projects = () => {
   const projects = [
     {
       title: "The-Blog-Cafe",
       description:
-        "The-Blog-Cafe is a responsive and user-friendly blog management web app with Material-UI and React.js frontend, Express.js, Node.js, and MongoDB backend, featuring user authentication and CRUD operations.",
+        "The-Blog-Cafe is a responsive and user-friendly blog management web application with Material-UI and React.js frontend, Express.js, Node.js, and MongoDB backend, featuring user authentication and CRUD operations.",
       githubLink: "https://github.com/GouravDutta-01/The-Blog-Cafe",
       youtubeLink: "https://www.youtube.com/watch?v=hS_dUY9Wsm8",
       deployedLink: "",
@@ -23,7 +25,7 @@ const Projects = () => {
     {
       title: "SafeRoads",
       description:
-        "Developed a user-friendly web application with React.js and Material UI and established a Flask server, facilitating seamless integration with the machine learning model for effective user-system communication.",
+        "SafeRoads is a user-friendly web application with React.js and Material UI and established a Flask server, facilitating seamless integration with the machine learning model for effective user-system communication.",
       githubLink: "https://github.com/sadiqebrahim/SafeRoads",
       youtubeLink: "",
       deployedLink: "",
@@ -32,7 +34,7 @@ const Projects = () => {
     {
       title: "Text-Ninja",
       description:
-        "This is a responsive text manipulation web app with case conversion, trimming, and first-letter capitalization. It includes clipboard functionality, random text generation, and text analytics for reading time, word count, and character insights. The user-friendly interface allows personalization with six color themes",
+        "Text-Ninja is a responsive text manipulation web application with case conversion, trimming, and first-letter capitalization. It includes clipboard functionality, random text generation, and text analytics for reading time, word count, and character insights. The user-friendly interface allows personalization with six color themes",
       githubLink: "https://github.com/GouravDutta-01/Text-Ninja",
       youtubeLink: "https://www.youtube.com/watch?v=zkN8NtOofBQ",
       deployedLink: "https://gouravdutta-01.github.io/Text-Ninja/",
@@ -41,7 +43,7 @@ const Projects = () => {
     {
       title: "Opcode-Converter",
       description:
-        "Developed a responsive and user-friendly web application for the Intel 8085 Microprocessor, streamlining opcode retrieval by allowing students to input mnemonics. The intuitive interface enhances efficiency by eliminating the need for manual opcode lookup.",
+        "Opcode-Converter is a responsive and user-friendly web application for the Intel 8085 Microprocessor, streamlining opcode retrieval by allowing students to input mnemonics. The intuitive interface enhances efficiency by eliminating the need for manual opcode lookup.",
       githubLink: "https://github.com/GouravDutta-01/Opcode-Converter",
       youtubeLink: "https://www.youtube.com/watch?v=ajE7wJLIU3A",
       deployedLink: "https://gouravdutta-01.github.io/Opcode-Converter/",
@@ -50,12 +52,30 @@ const Projects = () => {
     {
       title: "Edit-Ninja",
       description:
-        "This is a Flask-based web app utilizing OpenCV for diverse image processing tasks, such as format conversion (JPG, PNG), grayscale conversion, cropping, resizing (350x350 px, 1000x1000 px), rotation, and various blur and filter applications.",
+        "Edit-Ninja is a Flask-based web application utilizing OpenCV for diverse image processing tasks, such as format conversion (JPG, PNG), grayscale conversion, cropping, resizing (350x350 px, 1000x1000 px), rotation, and various blur and filter applications.",
       githubLink: "https://github.com/GouravDutta-01/Edit-Ninja",
       youtubeLink: "https://www.youtube.com/watch?v=zv7emj02o48",
       deployedLink: "",
       image: project5Image,
     },
+    {
+      title: "Daily-Task-Tracker",
+      description:
+        "Daily-Task-Tracker is a web application built using the Streamlit framework that helps you efficiently manage your daily tasks. Keep track of your tasks, mark them as completed, and visualize your progress using a dynamic bar plot.",
+      githubLink: "https://github.com/GouravDutta-01/Daily-Task-Tracker",
+      youtubeLink: "",
+      deployedLink: "https://daily-task-tracker.streamlit.app/",
+      image: project6Image,
+    },
+    {
+      title: "Laptop-Price-Predictor",
+      description:
+        "Laptop-Price-Predictor is a web application built using Streamlit Framework that predicts Laptop Prices using Random Forest Regressor model based on its specifications mentioned by the user.",
+      githubLink: "https://github.com/GouravDutta-01/laptop-price-predictor",
+      youtubeLink: "",
+      deployedLink: "https://laptop-price-predictor-gouravdutta-01.streamlit.app/",
+      image: project7Image,
+    }
   ];
 
   return (
