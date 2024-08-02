@@ -35,7 +35,7 @@ const AboutMe = () => {
           variant="h6"
           style={{ fontFamily: "Georgia, serif", marginTop: "20px", marginBottom: "20px", color: 'white' }}
         >
-          I'm a pre-final year student pursuing Electronics and
+          I'm a final year student pursuing Electronics and
           Telecommunication Engineering at Jadavpur University, Kolkata. I'm a
           passionate web developer with expertise in MERN stack technologies. I
           specialize in crafting innovative and user-centric web applications.

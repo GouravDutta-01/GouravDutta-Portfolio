@@ -10,6 +10,7 @@ import project4Image from "../assets/opcode-converter.png";
 import project5Image from "../assets/edit-ninja.png";
 import project6Image from "../assets/daily-task-tracker.png";
 import project7Image from "../assets/laptop-price-predictor.png";
+import project8Image from "../assets/quiz-ninja.png";
 
 const Projects = () => {
   const projects = [
@@ -75,7 +76,16 @@ const Projects = () => {
       youtubeLink: "",
       deployedLink: "https://laptop-price-predictor-gouravdutta-01.streamlit.app/",
       image: project7Image,
-    }
+    },
+    {
+      title: "Quiz-Ninja",
+      description:
+        "Quiz-Ninja is a responsive and user-friendly web application with quizzes on various subjects.",
+      githubLink: "https://github.com/GouravDutta-01/Quiz-Ninja",
+      youtubeLink: "",
+      deployedLink: "https://quiz-ninja-psi.vercel.app/",
+      image: project8Image,
+    },
   ];
 
   return (
