@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/GouravDutta-Portfolio/static/css/main.1b6b4595.css",
-    "main.js": "/GouravDutta-Portfolio/static/js/main.c160bfe4.js",
+    "main.js": "/GouravDutta-Portfolio/static/js/main.10832758.js",
     "static/media/the-blog-cafe.png": "/GouravDutta-Portfolio/static/media/the-blog-cafe.cba2095df3e221ce6bd4.png",
     "static/media/saferoads.png": "/GouravDutta-Portfolio/static/media/saferoads.e245e0568b19aeec1d81.png",
     "static/media/bg.jpg": "/GouravDutta-Portfolio/static/media/bg.b3b20e8037a53a36b458.jpg",
@@ -11,12 +11,13 @@
     "static/media/opcode-converter.png": "/GouravDutta-Portfolio/static/media/opcode-converter.e9cb4fc34b644258729f.png",
     "static/media/daily-task-tracker.png": "/GouravDutta-Portfolio/static/media/daily-task-tracker.b360a30a32ada4e26e05.png",
     "static/media/laptop-price-predictor.png": "/GouravDutta-Portfolio/static/media/laptop-price-predictor.76d105c0e280914c55ab.png",
+    "static/media/quiz-ninja.png": "/GouravDutta-Portfolio/static/media/quiz-ninja.c684d6e8144f6560cbe4.png",
     "index.html": "/GouravDutta-Portfolio/index.html",
     "main.1b6b4595.css.map": "/GouravDutta-Portfolio/static/css/main.1b6b4595.css.map",
-    "main.c160bfe4.js.map": "/GouravDutta-Portfolio/static/js/main.c160bfe4.js.map"
+    "main.10832758.js.map": "/GouravDutta-Portfolio/static/js/main.10832758.js.map"
   },
   "entrypoints": [
     "static/css/main.1b6b4595.css",
-    "static/js/main.c160bfe4.js"
+    "static/js/main.10832758.js"
   ]
 }
