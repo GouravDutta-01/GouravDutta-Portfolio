@@ -31,7 +31,8 @@ const ContactMe = () => {
           </List>
         </div>
         <Typography variant="body2" color="textSecondary" style={{ marginTop: 'auto', color: '#6b6b6b' }}>
-          Developed/Designed by Gourav Dutta &copy; 2024
+          Developed/Designed by Gourav Dutta &copy; {new Date().getFullYear()}. All rights
+          reserved.
         </Typography>
       </Paper>
     </div>

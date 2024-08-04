@@ -39,8 +39,19 @@ function DrawerAppBar(props) {
       <CssBaseline />
       <AppBar component="nav" sx={{ backgroundColor: "#182442" }}>
         <Toolbar>
-          <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-            Gourav
+          <Typography
+            variant="h6"
+            component="div"
+            sx={{
+              flexGrow: 1,
+              background: "linear-gradient(to right, #c7f1f2, #11edf2)",
+              fontWeight: "bold",
+              WebkitBackgroundClip: "text",
+              WebkitTextFillColor: "transparent",
+              cursor: "pointer",
+            }}
+          >
+            Gourav's Portfolio
           </Typography>
           <Box sx={{ display: { xs: "none", sm: "block" }, flexGrow: 1 }}>
             <ScrollLink to="home" smooth={true} duration={500} offset={-50}>
@@ -118,7 +129,7 @@ function DrawerAppBar(props) {
               onClick={handleDrawerToggle}
             >
               <ListItem disablePadding>
-                <ListItemButton sx={{ backgroundColor: "#10283f" }}> 
+                <ListItemButton sx={{ backgroundColor: "#10283f" }}>
                   <ListItemIcon>
                     <HomeIcon sx={{ color: "white" }} />
                   </ListItemIcon>

@@ -11,9 +11,19 @@ import project5Image from "../assets/edit-ninja.png";
 import project6Image from "../assets/daily-task-tracker.png";
 import project7Image from "../assets/laptop-price-predictor.png";
 import project8Image from "../assets/quiz-ninja.png";
+import project9Image from "../assets/library-central.png";
 
 const Projects = () => {
   const projects = [
+    {
+      title: "Library-Central",
+      description:
+        "Library-Central is a MERN stack-based library management system that allows librarians to manage e-books and users to browse and request them. With Material UI for styling, it offers a user-friendly experience for managing and accessing library resources.",
+      githubLink: "https://github.com/GouravDutta-01/Library-Central",
+      youtubeLink: "https://www.youtube.com/watch?v=RS56igZdGEs",
+      deployedLink: "",
+      image: project9Image,
+    },
     {
       title: "The-Blog-Cafe",
       description:
