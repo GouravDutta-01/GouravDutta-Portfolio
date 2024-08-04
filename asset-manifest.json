@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/GouravDutta-Portfolio/static/css/main.1b6b4595.css",
-    "main.js": "/GouravDutta-Portfolio/static/js/main.10832758.js",
+    "main.js": "/GouravDutta-Portfolio/static/js/main.1df9dd6d.js",
     "static/media/the-blog-cafe.png": "/GouravDutta-Portfolio/static/media/the-blog-cafe.cba2095df3e221ce6bd4.png",
     "static/media/saferoads.png": "/GouravDutta-Portfolio/static/media/saferoads.e245e0568b19aeec1d81.png",
-    "static/media/bg.jpg": "/GouravDutta-Portfolio/static/media/bg.b3b20e8037a53a36b458.jpg",
     "static/media/dp.png": "/GouravDutta-Portfolio/static/media/dp.7ed7d864917161130566.png",
+    "static/media/library-central.png": "/GouravDutta-Portfolio/static/media/library-central.63228f5e3e077ac2fcd3.png",
     "static/media/text-ninja.png": "/GouravDutta-Portfolio/static/media/text-ninja.a31e7ea24eef41173380.png",
     "static/media/edit-ninja.png": "/GouravDutta-Portfolio/static/media/edit-ninja.0543b2b8e320a9845733.png",
     "static/media/opcode-converter.png": "/GouravDutta-Portfolio/static/media/opcode-converter.e9cb4fc34b644258729f.png",
@@ -14,10 +14,10 @@
     "static/media/quiz-ninja.png": "/GouravDutta-Portfolio/static/media/quiz-ninja.c684d6e8144f6560cbe4.png",
     "index.html": "/GouravDutta-Portfolio/index.html",
     "main.1b6b4595.css.map": "/GouravDutta-Portfolio/static/css/main.1b6b4595.css.map",
-    "main.10832758.js.map": "/GouravDutta-Portfolio/static/js/main.10832758.js.map"
+    "main.1df9dd6d.js.map": "/GouravDutta-Portfolio/static/js/main.1df9dd6d.js.map"
   },
   "entrypoints": [
     "static/css/main.1b6b4595.css",
-    "static/js/main.10832758.js"
+    "static/js/main.1df9dd6d.js"
   ]
 }
