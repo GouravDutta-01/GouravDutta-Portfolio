@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/GouravDutta-Portfolio/static/css/main.1b6b4595.css",
+    "main.js": "/GouravDutta-Portfolio/static/js/main.e390ac84.js",
+    "static/media/the-blog-cafe.png": "/GouravDutta-Portfolio/static/media/the-blog-cafe.cba2095df3e221ce6bd4.png",
+    "static/media/saferoads.png": "/GouravDutta-Portfolio/static/media/saferoads.e245e0568b19aeec1d81.png",
+    "static/media/dp.png": "/GouravDutta-Portfolio/static/media/dp.7ed7d864917161130566.png",
+    "static/media/library-central.png": "/GouravDutta-Portfolio/static/media/library-central.63228f5e3e077ac2fcd3.png",
+    "static/media/text-ninja.png": "/GouravDutta-Portfolio/static/media/text-ninja.a31e7ea24eef41173380.png",
+    "static/media/edit-ninja.png": "/GouravDutta-Portfolio/static/media/edit-ninja.0543b2b8e320a9845733.png",
+    "static/media/opcode-converter.png": "/GouravDutta-Portfolio/static/media/opcode-converter.e9cb4fc34b644258729f.png",
+    "static/media/daily-task-tracker.png": "/GouravDutta-Portfolio/static/media/daily-task-tracker.b360a30a32ada4e26e05.png",
+    "static/media/laptop-price-predictor.png": "/GouravDutta-Portfolio/static/media/laptop-price-predictor.76d105c0e280914c55ab.png",
+    "static/media/quiz-ninja.png": "/GouravDutta-Portfolio/static/media/quiz-ninja.c684d6e8144f6560cbe4.png",
+    "index.html": "/GouravDutta-Portfolio/index.html",
+    "main.1b6b4595.css.map": "/GouravDutta-Portfolio/static/css/main.1b6b4595.css.map",
+    "main.e390ac84.js.map": "/GouravDutta-Portfolio/static/js/main.e390ac84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b6b4595.css",
+    "static/js/main.e390ac84.js"
+  ]
+}
